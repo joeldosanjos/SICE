@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Logo do softPrice" width="240" src="./img/logo.png"> </p>
+<p align="center"> <img alt="Logo do softPrice" width="240" src="./img/logo2.png"> </p>
 
 ### 🧯 S.I.C.E. é uma sigla para Sistema de Inspeção e Controle de Extintores, seu propósito é proporcionar um ambiente em que as informações dos extintores do usuário possam ser administradas, bem como as fichas inspeção de cada extintor e um relatório geral informando o estado dos extintores.
 
