@@ -83,4 +83,4 @@ Ao alterar esse valor, a conta selecionada irá se vincular à única empresa qu
 - [PHP](https://www.php.net/)
 - [JavaScript](https://www.javascript.com/)
   - [jQuery](https://jquery.com/)
- - [MySQL](https://www.mysql.com/)
+- [MySQL](https://www.mysql.com/)
