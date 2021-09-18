@@ -1,6 +1,6 @@
 <?php
 // Verificador de sessão 
-require "control/verificarloginpage.php";
+require "controller/verificarloginpage.php";
 ?>
 
 <!DOCTYPE html>
