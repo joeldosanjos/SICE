@@ -26,7 +26,7 @@ require "controller/verificarloginpage.php";
       <p>E conheça mais nosso projeto</p>
 
     </div>
-    <form action="control/autorizarlogin.php" method="POST" class="signupForm" name="signupform">
+    <form action="controller/autorizarlogin.php" method="POST" class="signupForm" name="signupform">
       <br><br><br>
       <ul class="noBullet">
         <li>
